@@ -17,6 +17,16 @@
 		2. IT'S FREE!!!
 		3. Clean, easy to read code
 		4. Changes can be seen instantly
-
+	</p>
+	
+	<h6>Learning resources for HTML</h6>
+	<p>
+	Some free resoures for learning HTML are:
+		1. W3Schools
+		2. Udemy
+		3. Coursera
+		4. YouTube
+		5. freeCodeCamp
+	</p>
 	</body>
 </hmtl>
