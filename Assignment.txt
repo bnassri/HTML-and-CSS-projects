@@ -1,9 +1,14 @@
 <!DOCTYPE>
 <html lang = "en">
 	<head>
-		<title>Write title here</title>
+		<title>About HTML/title>
 		<meta charset = "utf-8">
 	</head>
 	<body>
+	<h1>Basic Info</h1>
+	<p>
+	HTML, or Hyper Text Markup Language, is used to create web pages and some applications.  The language uses different elements (tags with text in between them) to display what and how the developer intends.
+	</p>
+
 	</body>
 </hmtl>
