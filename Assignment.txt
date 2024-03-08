@@ -9,6 +9,14 @@
 	<p>
 	HTML, or Hyper Text Markup Language, is used to create web pages and some applications.  The language uses different elements (tags with text in between them) to display what and how the developer intends.
 	</p>
+	
+	<h3>Benefits of HTML</h3>
+	<p>
+	HTML is easy to read and easy to learn and has the added benefit of being easily modified.  Some of its many benfits are:
+		1. Universal browser support
+		2. IT'S FREE!!!
+		3. Clean, easy to read code
+		4. Changes can be seen instantly
 
 	</body>
 </hmtl>
